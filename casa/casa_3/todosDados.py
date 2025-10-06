@@ -1,0 +1,13 @@
+nome=input("Me diga seu nome")
+endereco=input("Me diga seu endereço")
+cidade=input("Me diga sua cidade")
+cep=input("Me diga seu cep")
+diaDeNascimento=int(input("Me diga seu dia de nascimento"))
+mesDeNascimento=input("Me diga seu mes de nascimento")
+anoDeNascimento=int(input("Me diga seu ano de nascimento"))
+
+print("Seu nome é: ", nome)
+print("Seu enderço é: ", endereco)
+print("sua cidade é: ", cidade)
+print("Seu CEP é: ", cep)
+print("voçe nasceu no dia ",diaDeNascimento ,"no mês de ",mesDeNascimento ,"no ano de ",anoDeNascimento)
