@@ -1,0 +1,8 @@
+print("Ola Mundo!")
+print("Eu sou Jeferson")
+print("E eu sou bom")
+print("Estou criando minha mente algoritimica")
+print ("Voltei a estudar")
+print("Algo que não sonharia")
+print("Antes tarde do que nunca")
+print("Só vamos!")
